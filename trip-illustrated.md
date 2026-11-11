@@ -4,6 +4,8 @@
 >
 > 适用：2 位成人，中国大陆普通护照；泰国时间 UTC+7
 >
+> 预算口径：交通硬上限 CNY 4,000 / 2 人，包含机票最终价、必要行李和深圳往返出发机场交通；汇率参考为 1 CNY ≈ 5.0162 THB（2026-11-10）。
+>
 > 这是一份可直接照着安排的朋友版计划。机票、船票、住宿和入境规则必须以出发前的实际订单及官方公告为准；没有满足交通条件时，按对应的简化方案执行。
 
 ## 先确认四件事
@@ -22,6 +24,21 @@
 - 行李：两人共用 1 个 26 寸箱；每人另带一个可过夜小包
 - 预算：机票、必要行李和深圳往返出发机场交通合计目标不超过 CNY 4,000；下单前以最终结算金额为准
 - 生活节奏：换岛日只安排交通和入住；海况不好时不出海
+
+## 预订清单与价格快照
+
+价格快照日期：**2026-11-11**。价格会变，链接才是准绳。以下是日期搜索或可见价格带，不是出票、锁房或含税报价；房型、税费、行李、接送和取消条款要在具体订单页复核。
+
+| 项目 | 价格快照 | 下单前确认 |
+|---|---|---|
+| 国际航班：CAN ↔ HKT | CNY 4,444（19:05 出发）或 CNY 4,724（13:35 出发），2 位成人往返；未含必要行李和深圳 ↔ 广州机场交通。HKG 精确日期搜索暂无匹配票价。 | 两个 CAN 价格都已超过 CNY 4,000 交通硬上限，只作超预算备选；[打开日期搜索](https://www.google.com/travel/flights?q=Flights%20from%20CAN%20to%20HKT%20on%202026-12-05%20returning%202026-12-13%20for%202%20adults) |
+| Phuket Old Town · 2 晚 | CNY 234–427 / 晚，可见价格带；2026-11-11。 | [打开日期搜索](https://www.google.com/travel/search?q=Phuket%20Old%20Town&checkin=2026-12-05&checkout=2026-12-07&hl=zh-CN&curr=CNY)；确认房型、税费、两晚总价和行李寄存 |
+| Phi Phi · 2 晚 | CNY 276–591 / 晚，可见价格带；2026-11-11。 | [打开日期搜索](https://www.google.com/travel/search?q=Ko%20Phi%20Phi%20Tonsai&checkin=2026-12-07&checkout=2026-12-09&hl=zh-CN&curr=CNY)；确认上下船拖箱距离和海上活动集合点 |
+| Koh Lanta · 2 晚 | CNY 320–567 / 晚，可见价格带；2026-11-11。 | [打开日期搜索](https://www.google.com/travel/search?q=Khlong%20Dao%20Beach%20Koh%20Lanta&checkin=2026-12-09&checkout=2026-12-11&hl=zh-CN&curr=CNY)；确认 Saladan 接送和 12/11 取行李 |
+| Ao Nang · 2 晚 | CNY 267–1,096 / 晚，可见价格带；2026-11-11。 | [打开日期搜索](https://www.google.com/travel/search?q=Ao%20Nang%20Krabi&checkin=2026-12-11&checkout=2026-12-13&hl=zh-CN&curr=CNY)；早于 14:00 的返程航班要改住机场附近 |
+| 三段跨岛交通 | 当前未取得可公开引用的价格快照，不填估算。 | [普吉 → 皮皮](https://12go.asia/en/travel/phuket/koh-phi-phi)、[皮皮 → 兰塔](https://12go.asia/en/travel/koh-phi-phi/koh-lanta)、[兰塔 → 奥南](https://12go.asia/en/travel/koh-lanta/ao-nang)；下单时确认行李、换乘和取消条件 |
+
+住宿四段的价格带相加约为 CNY 2,194–5,362 / 8 晚，仅作筛选参考，不代表同一批房型、税费或最终全包价。路径 B 的船票、活动和住宿组合不同，当前没有单独的可引用价格快照，按相同规则重新核价。
 
 ## 航段安排
 
