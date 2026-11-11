@@ -195,5 +195,3 @@
 ## 相关文件
 
 - [插画版 HTML](./trip-illustrated.html)
-- [离线地图](./trip.kml)
-- [行前提醒日历](./gates.ics)
